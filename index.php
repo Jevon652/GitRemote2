@@ -6,6 +6,8 @@
     <title>Belajar git remot</title>
 </head>
 <body>
-    
+    <p>belajar manpro belajar rajin</p>
+    <p>lagi apa?<p>
+        <p> lagi ngerjain tugas<p>
 </body>
 </html>
